@@ -1,0 +1,50 @@
+[
+    {
+        "name": "nanta",
+        "username": "nant",
+        "hash": "$2a$10$u6dgPlOJsb3muyjNmG84tumZgUtW9I1ger1bEy09NWvWAQZALb0hy",
+        "id": 1,
+        "dateCreated": "2023-05-14T17:01:17.008Z",
+        "dateUpdated": "2023-05-14T17:01:17.008Z"
+    },
+    {
+        "name": "aqila cantik",
+        "username": "aqiladun",
+        "hash": "$2a$10$pkbL.JL.58gAV4ekO3Sz9eO9cSJC51D5LoJXu4ppbLdG1ZmRbfOxS",
+        "id": 2,
+        "dateCreated": "2023-05-14T18:24:23.742Z",
+        "dateUpdated": "2023-05-14T18:24:23.743Z"
+    },
+    {
+        "name": "cobain",
+        "email": "coba@coba.com",
+        "hash": "$2a$10$YNGA02oVk0ojYcOEHhUaMuFMBCdfwZfbCSqdCq5Jdc.fzbvIiCgBK",
+        "id": 3,
+        "dateCreated": "2023-05-23T11:40:01.747Z",
+        "dateUpdated": "2023-05-23T11:40:01.747Z"
+    },
+    {
+        "name": "tester",
+        "email": "test@test.com",
+        "hash": "$2a$10$3t2SUJaMj41Zzjw5ol15We5MagAHmA9Hv3UJiYyHVZcp2J1E1iKl2",
+        "id": 4,
+        "dateCreated": "2023-05-24T14:56:20.594Z",
+        "dateUpdated": "2023-05-24T14:56:20.594Z"
+    },
+    {
+        "name": "Haqila Nur Nouvadila",
+        "email": "haqilaan@gmail.com",
+        "hash": "$2a$10$oohUPkCTURXPwvhsTkLTO..ESYxZ5ooDpKzm3xPxl6lHgZUi2EfAa",
+        "id": 5,
+        "dateCreated": "2023-05-26T17:02:00.793Z",
+        "dateUpdated": "2023-05-26T17:02:00.793Z"
+    },
+    {
+        "name": "ananta",
+        "email": "qwerty@gmail.com",
+        "hash": "$2a$10$PgomU9YH7toL3hgx/00qN.aTOxYHKjlaJQe5rc9968wpQ4WeNO1fu",
+        "id": 6,
+        "dateCreated": "2023-05-31T08:26:00.547Z",
+        "dateUpdated": "2023-05-31T08:26:00.547Z"
+    }
+]
